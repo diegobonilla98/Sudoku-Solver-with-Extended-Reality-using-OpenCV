@@ -10,6 +10,6 @@ I need to get some good images of "newspapperish" digit images to accomplish acc
 
 The first one is an image of a sudoku and the other one is the algorithm detecting the sudoku and guesing the right perspective.
 
-[! Alt Text](sudoku.jpg)
+[! Alt Text](/sudoku.jpg)
 
-[! Alt Text](warped_cut_image.png)
+[! Alt Text](/warped_cut_image.png)
